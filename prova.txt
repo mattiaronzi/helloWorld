@@ -1,3 +1,4 @@
 prima modifica iniziale
 prima modifica su primoBranch
-seconda modifica su primoBranch
+prima modifica su secondoBranch
+mergiata finale con conflitto risolto
