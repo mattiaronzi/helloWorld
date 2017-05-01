@@ -1,5 +1,6 @@
 prima modifica iniziale,
 prima modifica su primoBranch, 
+aggiungiamo una riga per vedere come va il rebase,
 prima modifica su secondoBranch,
 mergiata finale con conflitto risolto,
 modifica pre pull da altro utente,
