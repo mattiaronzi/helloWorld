@@ -2,3 +2,4 @@ prima modifica iniziale
 prima modifica su primoBranch
 prima modifica su secondoBranch
 mergiata finale con conflitto risolto
+modifica pre pull
